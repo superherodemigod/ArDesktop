@@ -54,3 +54,5 @@ npm-debug.log.*
 *.sass.d.ts
 *.scss.d.ts
 *.db
+
+document
